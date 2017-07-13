@@ -1,5 +1,5 @@
 body {
-    font: 13px/1.4 'Helvetica Neue', 'Helvetica','Arial', sans-serif;
+    font: 13px/1.2 'Helvetica Neue', 'Helvetica','Arial', sans-serif;
     color: #333;
 }
 .container {
@@ -54,7 +54,7 @@ a {
 .styled div {
   display: inline-block;
   margin-left: 60px;
-  font-size: 90px;
+  font-size: 120px;
   font-weight: 100;
   line-height: 1;
   text-align: right;
