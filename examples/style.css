@@ -60,6 +60,13 @@ a {
   text-align: right;
   font-weight: bold;
 }
+
+@media only screen and (max-width: 768px) {
+    .styled div {
+        font-size:45px;
+    }
+}
+
 /* IE7 inline-block hack */
 *+html .styled div{
   display: inline;
