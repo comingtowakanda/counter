@@ -38,7 +38,7 @@ a {
   transition: background 0.5s ease-out;
 }
 
-.simple{margin: auto; width:50%;}
+.simple{ width:50%; margin: auto; }
 .offset {
   margin-bottom: 10px;
 }
