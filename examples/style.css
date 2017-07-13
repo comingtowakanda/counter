@@ -68,6 +68,15 @@ a {
     }
 }
 
+/* IFRAME */
+iframe{
+width:100%;
+outline: none; 
+display:block; 
+height: 150px;
+border:none;
+overflow:hidden;
+}
 /* IE7 inline-block hack */
 *+html .styled div{
   display: inline;
