@@ -58,6 +58,7 @@ a {
   font-weight: 100;
   line-height: 1;
   text-align: right;
+  font-weight: bold;
 }
 /* IE7 inline-block hack */
 *+html .styled div{
