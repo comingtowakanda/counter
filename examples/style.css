@@ -63,8 +63,8 @@ a {
 
 @media only screen and (max-width: 768px) {
     .styled div {
-        font-size:24px;
-        margin-left: 12px;
+        font-size:36px;
+        margin-left: 6px;
     }
 }
 
@@ -77,6 +77,7 @@ height: 150px;
 border:none;
 overflow:hidden;
 }
+
 /* IE7 inline-block hack */
 *+html .styled div{
   display: inline;
