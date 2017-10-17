@@ -3,7 +3,8 @@ body {
     color: #333;
 }
 .container {
-    width: 52%;
+    width: 100%;
+    text-align: center;
     margin: auto;
 }
 h1 {
